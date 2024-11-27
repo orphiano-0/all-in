@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost'; // Database host
+$host = 'database-1.c722y8k88aul.us-east-1.rds.amazonaws.com'; // Database host
 $db = 'my_app'; // Database name
-$user = 'your_user'; // Database username
-$pass = 'your_password'; // Database password
+$user = 'admin'; // Database username
+$pass = 'gSw1!#seris'; // Database password
 
 try {
     // Create a PDO instance
